@@ -42,7 +42,7 @@ namespace Backstabber_Bot
             Client.Log += Client_Log;
 
 
-            await Client.LoginAsync(TokenType.Bot, "NTM4ODU5OTczODA0MDMyMDIw.Dy5-Mw.N5HoMBpuda59_MVhL46pn3Ph9Ro");
+            await Client.LoginAsync(TokenType.Bot, "REMOVED FOR SECURITY REASONS");
             await Client.StartAsync();
 
             await Task.Delay(-1);
