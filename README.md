@@ -1,2 +1,2 @@
 # Backstabber_Bot
-TestingGit
+Simple Discord.net api to play the boardgame Diplomacy.
